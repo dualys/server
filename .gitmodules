@@ -13,3 +13,9 @@
 [submodule "noun"]
 	path = noun
 	url = https://github.com/dualys/noun.git
+[submodule "plan"]
+	path = plan
+	url = https://github.com/dualys/plan.git
+[submodule "maat"]
+	path = maat
+	url = https://github.com/dualys/maat.git
